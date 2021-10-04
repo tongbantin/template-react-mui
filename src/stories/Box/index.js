@@ -1,0 +1,1 @@
+export {default as BoxTemplate1} from './box'

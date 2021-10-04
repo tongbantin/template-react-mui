@@ -1,0 +1,27 @@
+.swal2-title {
+  font-size: 20px !important;
+  line-height: 18px;
+}
+
+.swal2-popup {
+  width: 25em !important;
+}
+
+.swal2-styled.swal2-confirm,
+.swal2-styled.swal2-cancel {
+  border: 1px solid #1a0dab;
+  background-color: #1a0dab;
+  color: #ffffff !important;
+  font-size: 14px !important;
+  font-weight: bold;
+  align-items: center;
+  margin: 0 5px;
+}
+.swal2-styled.swal2-confirm:hover,
+.swal2-styled.swal2-cancel:hover {
+  background-color: rgba(26, 13, 171, 0.8) !important;
+  color: #ffffff !important;
+}
+.swal2-container {
+    z-index: 10000000;
+  }
